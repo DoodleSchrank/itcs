@@ -1,4 +1,4 @@
-package examprep.adt;
+package examprep.set;
 
 public class EmptySet<T> implements ADTSet<T> {
     public EmptySet() {

@@ -1,4 +1,4 @@
-package examprep.adt;
+package examprep.set;
 
 public class Set<T> implements ADTSet<T> {
     private final T head;

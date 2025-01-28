@@ -1,4 +1,4 @@
-package examprep.adt;
+package examprep.set;
 
 public interface ADTSet<T> {
 
